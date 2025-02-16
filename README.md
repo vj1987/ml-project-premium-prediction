@@ -9,6 +9,7 @@ two phases:
 1. Phase 1 (MVP): Build and deploy a predictive model with a Streamlit application. 
 2. Phase 2: Develop infrastructure for straight-through processing (STP) of insurance quotes 
 (detailed planning and estimation for this phase will be done later). 
+
 Phase 1: MVP Development 
 
 # Objective:
