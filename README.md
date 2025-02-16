@@ -25,32 +25,32 @@ Create an interactive Streamlit application that an underwriter can use for pred
 # Scope of Work:
 1. Data Collection and Preprocessing
    
-  o Collect and clean labeled datasets. 
-  o Perform exploratory data analysis (EDA).
+     o Collect and clean labeled datasets. 
+     o Perform exploratory data analysis (EDA).
 
 3. Model Development
    
-  o Train and evaluate multiple models. 
-  o Optimize the best model for accuracy. 
+     o Train and evaluate multiple models. 
+     o Optimize the best model for accuracy. 
 
 5. Model Deployment
    
-  o Deploy the model on a cloud platform. 
-  o Ensure security and scalability. 
+     o Deploy the model on a cloud platform. 
+     o Ensure security and scalability. 
 
 7. Streamlit Application Development
    
-  o Build an interactive app for inputting factors and displaying predictions. 
+     o Build an interactive app for inputting factors and displaying predictions. 
 
 9. Testing and Validation
     
-  o Rigorous testing and validation with real-world data. 
+     o Rigorous testing and validation with real-world data. 
 
 11. Documentation and Training
     
-  o Provide documentation and training for underwriters. 
+     o Provide documentation and training for underwriters. 
 
 # Deliverables:
 
-  o Trained model, deployed model, Streamlit app, documentation, and training materials.
+     o Trained model, deployed model, Streamlit app, documentation, and training materials.
 
